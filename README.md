@@ -6,11 +6,11 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 
-<span><img src="https://images.seeklogo.com/logo-png/15/2/java-logo-png_seeklogo-158094.png" alt="Java logo" title="Java" height="40" /></span>
+<span><img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="Java logo" title="Java" height="40" /></span>
 &nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python logo" title="Python" height="40" /></span>
 &nbsp;
-<span><img src="https://pngimg.com/d/mysql_PNG23.png" alt="MySQL logo" title="MySQL" height="40" /></span>
+<span><img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" alt="MySQL logo" title="MySQL" height="40" /></span>
 &nbsp; 
 <span><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-icon-svg-download-png-1175120.png" alt="PostgreSQL logo" title="PostgreSQL" height="40" /></span>
 &nbsp;
